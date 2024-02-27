@@ -1,2 +1,1 @@
-# 2324-2-common
-Software Laboratory, 2023/2024, Spring semester
+48905 - Kevin
